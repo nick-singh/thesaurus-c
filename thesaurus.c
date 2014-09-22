@@ -1,5 +1,4 @@
 /*
-
 	Assignment 1 Thesaurus
 
 	Problem : 	Given a file with synonyms on each line, meaning that 
@@ -11,8 +10,6 @@
 			be found quickly.
 
 */
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
