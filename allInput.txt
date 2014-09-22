@@ -1,0 +1,223 @@
+Test Data 1
+
+blossom flower
+
+bewilder confound confuse perplex
+
+dwell live reside
+
+-----------------------------------------------------
+
+Output Test 1
+
+Words Synonyms
+
+bewilder confound confuse perplex
+
+blossom flower
+
+confound bewilder confuse perplex
+
+confuse bewilder confound perplex
+
+dwell live reside
+
+flower blossom
+
+live dwell reside
+
+perplex bewilder confound confuse
+
+reside dwell live
+
+Words Synonyms
+
+bewilder confound confuse perplex
+
+blossom flower
+
+dwell live reside
+
+---------------------------------------------------
+
+Test Data 2
+
+confuse perplex bewilder confound
+
+reside live dwell
+
+repair
+
+dwindle abate lessen diminish
+
+robust healthy sound strong tough
+
+-----------------------------------------------------
+
+Output Test 2
+
+Words Synonyms
+
+abate diminish dwindle lessen
+
+bewilder confound confuse perplex
+
+confound bewilder confuse perplex
+
+confuse bewilder confound perplex
+
+diminish abate dwindle lessen
+
+dwell live reside
+
+dwindle abate diminish lessen
+
+healthy robust sound strong tough
+
+lessen abate diminish dwindle
+
+live dwell reside
+
+perplex bewilder confound confuse
+
+repair
+
+reside dwell live
+
+robust healthy sound strong tough
+
+sound healthy robust strong tough
+
+strong healthy robust sound tough
+
+tough healthy robust sound strong
+
+Words Synonyms
+
+abate diminish dwindle lessen
+
+bewilder confound confuse perplex
+
+dwell live reside
+
+healthy robust sound strong tough
+
+repair
+
+----------------------------------------------------
+
+Test Data 3
+
+confuse perplex bewilder confound
+
+bloom blossom
+
+repair mend
+
+dwindle abate lessen diminish
+
+bamboozle stupefy stump confuse
+
+dwell reside live
+
+fix mend restore
+
+flourish bloom thrive
+
+bewilder puzzle floor
+
+live inhabit
+
+baffle puzzle
+
+-----------------------------------------------------
+
+Output Test 3
+
+Words Synonyms
+
+abate diminish dwindle lessen
+
+baffle bamboozle bewilder confound confuse floor perplex
+
+puzzle stump stupefy
+
+bamboozle baffle bewilder confound confuse floor perplex
+
+puzzle stump stupefy
+
+bewilder baffle bamboozle confound confuse floor perplex
+
+puzzle stump stupefy
+
+bloom blossom flourish thrive
+
+blossom bloom flourish thrive
+
+confound baffle bamboozle bewilder confuse floor perplex
+
+puzzle stump stupefy
+
+confuse baffle bamboozle bewilder confound floor perplex
+
+puzzle stump stupefy
+
+diminish abate dwindle lessen
+
+dwell inhabit live reside
+
+dwindle abate diminish lessen
+
+fix mend repair restore
+
+floor baffle bamboozle bewilder confound confuse
+
+perplex puzzle stump stupefy
+
+flourish bloom blossom thrive
+
+inhabit dwell live reside
+
+lessen abate diminish dwindle
+
+live dwell inhabit reside
+
+mend fix repair restore
+
+perplex baffle bamboozle bewilder confound confuse floor
+
+puzzle stump stupefy
+
+puzzle baffle bamboozle bewilder confound confuse floor
+
+perplex stump stupefy
+
+repair fix mend restore
+
+reside dwell inhabit live
+
+restore fix mend repair
+
+stump baffle bamboozle bewilder confound confuse floor
+
+perplex puzzle stupefy
+
+stupefy baffle bamboozle bewilder confound confuse floor
+
+perplex puzzle stump
+
+thrive bloom blossom flourish
+
+Words Synonyms
+
+abate diminish dwindle lessen
+
+baffle bamboozle bewilder confound confuse floor perplex
+
+puzzle stump stupefy
+
+bloom blossom flourish thrive
+
+dwell inhabit live reside
+
+fix mend repair restore
