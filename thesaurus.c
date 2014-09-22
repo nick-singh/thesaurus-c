@@ -8,7 +8,6 @@
 
 	Task : 	Build a thesaurus such that given any word all synonyms must 
 			be found quickly.
-
 */
 
 #include <stdio.h>
@@ -16,6 +15,7 @@
 #include <string.h>
 
 #define MAXWORDSIZE 32
+			
 #define MAXLINE 100
 
 
