@@ -1,9 +1,5 @@
 /*
 
-	Name: 		Nicholas Chamansingh
-	ID:			809002243
-	Course : 	Comp 6401
-
 	Assignment 1 Thesaurus
 
 	Problem : 	Given a file with synonyms on each line, meaning that 
